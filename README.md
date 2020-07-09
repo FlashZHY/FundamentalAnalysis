@@ -1,4 +1,4 @@
-# Fundamental Analysi
+# Fundamental Analysis
 This package collects fundamentals and detailed company stock data from a large group of companies (13.000+)
 from FinancialModelingPrep and uses Yahoo Finance to obtain stock data for any financial instrument. It allows
 the user to do most of the essential fundamental analysis. It also gives the possibility to quickly compare
